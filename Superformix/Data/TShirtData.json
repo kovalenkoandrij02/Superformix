@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "closeTitle": "CoreFlex Motion T-Shirt",
+        "imageName": "coreflex_motion_tshirt",
+        "price": 35.00,
+        "description": "This performance tee is built for movement. Crafted with breathable, quick-dry fabric, it keeps you cool and dry through every rep, run, or rest day. Lightweight with a natural stretch for unrestricted motion."
+    },
+    {
+        "id": 2,
+        "closeTitle": "PrimeFlow Training Tee",
+        "imageName": "primeflow_training_tee",
+        "price": 40.00,
+        "description": "Engineered with performance mesh, this t-shirt combines modern style with advanced sweat control. Perfect for high-intensity workouts, cardio, or outdoor training sessions. Breathable. Sleek. Ready for anything."
+    },
+    {
+        "id": 3,
+        "closeTitle": "UltraStretch Flex Tee",
+        "imageName": "ultrastretch_flex_tee",
+        "price": 38.00,
+        "description": "Soft, stretchy, and durable — this tee moves with you. Whether you're lifting, stretching, or just relaxing, its adaptive fit and moisture-wicking finish deliver comfort and performance."
+    },
+    {
+        "id": 4,
+        "closeTitle": "TitanFit Gym T-Shirt",
+        "imageName": "titanfit_gym_tshirt",
+        "price": 36.50,
+        "description": "Crafted for tough training days, this tee features anti-chafe seams, a slim athletic cut, and ultra-light fabric. Designed for those who demand performance without sacrificing style."
+    },
+    {
+        "id": 5,
+        "closeTitle": "DryForce Active Tee",
+        "imageName": "dryforce_active_tee",
+        "price": 42.00,
+        "description": "Built with advanced sweat-wicking tech, this training shirt helps you stay dry and focused. Ideal for long runs, heavy lifting, or hot-weather workouts. Stay cool under pressure."
+    },
+    {
+        "id": 6,
+        "closeTitle": "DailyDrive Sport Tee",
+        "imageName": "dailydrive_sport_tee",
+        "price": 33.00,
+        "description": "Effortless style meets everyday performance. This tee works at the gym or on the go, with a clean fit and smooth texture. Made for movement, perfect for rest days too."
+    },
+    {
+        "id": 7,
+        "closeTitle": "ZeroResistance Comfort Tee",
+        "imageName": "zeroresistance_comfort_tee",
+        "price": 39.00,
+        "description": "As light as air, this shirt offers a barely-there feel with full stretch and soft-touch fabric. Ideal for intense workouts or all-day wear — wherever the day takes you."
+    },
+    {
+        "id": 8,
+        "closeTitle": "PaceRunner Reflective Tee",
+        "imageName": "pacerunner_reflective_tee",
+        "price": 45.00,
+        "description": "Designed for runners, this shirt features reflective details, breathable fabric, and a performance cut. Whether it’s morning sprints or night jogs, you’ll stand out in all the right ways."
+    },
+    {
+        "id": 9,
+        "closeTitle": "CloudFit Essential Tee",
+        "imageName": "cloudfit_essential_tee",
+        "price": 34.00,
+        "description": "This ultra-soft tee feels like a cloud. Built from breathable cotton-blend fabric, it keeps you cool while offering long-lasting comfort for both gym sessions and weekend hangs."
+    },
+    {
+        "id": 10,
+        "closeTitle": "FeatherLite Workout Tee",
+        "imageName": "featherlite_workout_tee",
+        "price": 37.50,
+        "description": "Stay light, stay fast. This tee features an airy build and ventilated panels for max airflow during high-impact sessions. Great for gym, studio, or outdoor workouts."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "closeTitle": "WindFlex Packable Jacket",
+        "imageName": "windflex_packable_jacket",
+        "price": 80.00,
+        "description": "Shield yourself from wind and drizzle with this ultra-light windbreaker. Easily folds into a compact size for travel or daily carry. Reflective accents add safety during low-light commutes or evening jogs."
+    },
+    {
+        "id": 2,
+        "closeTitle": "ThermoRun Insulated Jacket",
+        "imageName": "thermorun_insulated_jacket",
+        "price": 90.50,
+        "description": "Engineered for cold-weather training, this jacket combines breathable insulation and sweat-wicking lining. Fitted and performance-ready, it includes reflective panels to keep you seen in low light."
+    },
+    {
+        "id": 3,
+        "closeTitle": "ElementGuard All-Weather Jacket",
+        "imageName": "elementguard_all_weather_jacket",
+        "price": 85.00,
+        "description": "Built for unpredictability, this water-resistant coat ensures performance in rain, wind, or cool temps. Lightweight yet tough — made to move when you do."
+    },
+    {
+        "id": 4,
+        "closeTitle": "AirFlow Sport Layer Jacket",
+        "imageName": "airflow_sport_layer_jacket",
+        "price": 82.00,
+        "description": "Minimal in weight, maximum in comfort. This breathable jacket offers strategic ventilation and a tailored fit — ideal for layering pre- or post-workout."
+    },
+    {
+        "id": 5,
+        "closeTitle": "Velocity Slim Fit Jacket",
+        "imageName": "velocity_slim_fit_jacket",
+        "price": 88.50,
+        "description": "A runner’s essential — streamlined and reflective. The slim silhouette and featherweight build keep you fast on your feet, day or night."
+    },
+    {
+        "id": 6,
+        "closeTitle": "CorePrep Warm-Up Jacket",
+        "imageName": "coreprep_warmup_jacket",
+        "price": 87.00,
+        "description": "Perfect for training sessions or travel, this warm-up layer features ergonomic seams and soft interior fabric for relaxed movement and all-day ease."
+    },
+    {
+        "id": 7,
+        "closeTitle": "ShieldTech Softshell Jacket",
+        "imageName": "shieldtech_softshell_jacket",
+        "price": 92.00,
+        "description": "Built to block wind and light rain, this softshell design blends performance with style. Rugged enough for trail runs, clean enough for everyday wear."
+    },
+    {
+        "id": 8,
+        "closeTitle": "Stormline Waterproof Jacket",
+        "imageName": "stormline_waterproof_jacket",
+        "price": 94.50,
+        "description": "Fully sealed and ready for the elements, this jacket keeps you dry without sacrificing breathability. Ideal for wet commutes, hikes, or early-morning jogs."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "closeTitle": "CoreFlex Adjustable Cap",
+        "imageName": "coreflex_adjustable_cap",
+        "price": 25.00,
+        "description": "A modern twist on a classic. This adjustable cap features moisture-wicking fabric and a breathable build to keep you dry and comfortable. Ideal for workouts, travel, or casual streetwear."
+    },
+    {
+        "id": 2,
+        "closeTitle": "AirMesh Running Cap",
+        "imageName": "airmesh_running_cap",
+        "price": 27.00,
+        "description": "Built for runners and outdoor training, this cap combines lightweight structure with ventilated mesh panels for maximum airflow. Sleek, secure, and performance-driven — a must-have for active days."
+    },
+    {
+        "id": 3,
+        "closeTitle": "HydroDry Performance Cap",
+        "imageName": "hydrodry_performance_cap",
+        "price": 28.50,
+        "description": "Stay cool no matter the conditions. This cap is crafted from quick-drying, sweat-wicking fabric with an adjustable back strap for a stable fit during intense activity."
+    },
+    {
+        "id": 4,
+        "closeTitle": "FlexFit Training Cap",
+        "imageName": "flexfit_training_cap",
+        "price": 26.00,
+        "description": "Minimalist in design, maximum in comfort. With a stretch-fit construction, this cap provides a secure yet flexible feel, making it perfect for both training and casual daily wear."
+    },
+    {
+        "id": 5,
+        "closeTitle": "LumiReflect Runner’s Cap",
+        "imageName": "lumireflect_runners_cap",
+        "price": 30.00,
+        "description": "Designed with reflective details for visibility, this lightweight running cap ensures safety during low-light sessions. Breathable and durable, it’s the perfect blend of style and function."
+    },
+    {
+        "id": 6,
+        "closeTitle": "EveryDay Air Sport Cap",
+        "imageName": "everyday_air_sport_cap",
+        "price": 24.50,
+        "description": "Light and versatile, this cap is built for all-day wear. Its breathable fabric and athletic cut make it the go-to accessory for workouts, errands, or outdoor adventures."
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "closeTitle": "WindFlex Packable Jacket",
+        "imageName": "windflex_packable_jacket",
+        "price": 80.00,
+        "description": "Shield yourself from wind and drizzle with this ultra-light windbreaker. Easily folds into a compact size for travel or daily carry. Reflective accents add safety during low-light commutes or evening jogs."
+    },
+    
+    {
+        "id": 2,
+        "closeTitle": "PaceLine Running Shorts",
+        "imageName": "paceline_running_shorts",
+        "price": 35.00,
+        "description": "Created for runners, these shorts feature moisture-wicking tech, a featherlight feel, and a secure waistband. Designed to reduce distractions so you can focus on your stride."
+    },
+    
+    {
+        "id": 3,
+        "closeTitle": "Streamline Active Shorts",
+        "imageName": "streamline_active_shorts",
+        "price": 34.00,
+        "description": "Slim, sharp, and versatile — these active shorts give a fitted silhouette while allowing full mobility. A sleek look that works from the gym floor to streetwear fits."
+    },
+    {
+        "id": 4,
+        "closeTitle": "IronCore Performance Pants",
+        "imageName": "ironcore_performance_pants",
+        "price": 49.00,
+        "description": "Tough and breathable, these pants are made for intense training. Reinforced seams and durable material ensure they hold up through high-impact workouts while keeping you cool."
+    },
+    {
+        "id": 5,
+        "closeTitle": "EdgeLine Slim Hoodie",
+        "imageName": "edgeline_slim_hoodie",
+        "price": 65.00,
+        "description": "Sleek and minimal, this slim-fit hoodie elevates your casual look. With a front zipper, contoured seams, and low-profile pockets, it pairs effortlessly with joggers or denim. A perfect layer for transitional weather and urban settings."
+    },
+    
+    {
+        "id": 6,
+        "closeTitle": "EveryDay Air Sport Cap",
+        "imageName": "everyday_air_sport_cap",
+        "price": 24.50,
+        "description": "Light and versatile, this cap is built for all-day wear. Its breathable fabric and athletic cut make it the go-to accessory for workouts, errands, or outdoor adventures."
+    }
+]

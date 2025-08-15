@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "closeTitle": "AirFlex Quick-Dry Shorts",
+        "imageName": "airflex_quick_dry_shorts",
+        "price": 30.00,
+        "description": "These ultra-light shorts are made from quick-drying fabric that keeps you cool and comfortable. Featuring zippered pockets and a relaxed athletic cut, they’re perfect for both intense workouts and laid-back weekends."
+    },
+    {
+        "id": 2,
+        "closeTitle": "MotionFit Stretch Shorts",
+        "imageName": "motionfit_stretch_shorts",
+        "price": 32.50,
+        "description": "Designed for movement, these high-performance shorts feature a flexible waistband and breathable fabric that adapts as you train. Whether you’re lifting, running, or relaxing — they’ve got you covered."
+    },
+    {
+        "id": 3,
+        "closeTitle": "CoreFlow Training Shorts",
+        "imageName": "coreflow_training_shorts",
+        "price": 31.00,
+        "description": "Built for dynamic workouts, these shorts provide maximum stretch and a secure, flexible fit. Lightweight and breathable, they’re your ideal companion for HIIT, cardio, or rest day stretches."
+    },
+    {
+        "id": 4,
+        "closeTitle": "BreatheTech Mesh Shorts",
+        "imageName": "breathetch_mesh_shorts",
+        "price": 29.50,
+        "description": "Stay ventilated with these mesh-paneled shorts designed for airflow and comfort. Ideal for warm weather training or outdoor runs, they deliver cool performance with a minimalist look."
+    },
+    {
+        "id": 5,
+        "closeTitle": "PaceLine Running Shorts",
+        "imageName": "paceline_running_shorts",
+        "price": 35.00,
+        "description": "Created for runners, these shorts feature moisture-wicking tech, a featherlight feel, and a secure waistband. Designed to reduce distractions so you can focus on your stride."
+    },
+    {
+        "id": 6,
+        "closeTitle": "EaseFit Everyday Gym Shorts",
+        "imageName": "easefit_everyday_gym_shorts",
+        "price": 28.00,
+        "description": "Simple. Comfortable. Reliable. These relaxed-fit shorts are made with soft-touch fabric and designed for both movement and chill. Great for gym days, errands, or just kicking back."
+    },
+    {
+        "id": 7,
+        "closeTitle": "ToughCore Training Shorts",
+        "imageName": "toughcore_training_shorts",
+        "price": 33.50,
+        "description": "Made from durable, stretch-woven fabric, these shorts handle tough workouts with ease. With reinforced stitching and a stylish cut, they’re built to perform — and to last."
+    },
+    {
+        "id": 8,
+        "closeTitle": "Streamline Active Shorts",
+        "imageName": "streamline_active_shorts",
+        "price": 34.00,
+        "description": "Slim, sharp, and versatile — these active shorts give a fitted silhouette while allowing full mobility. A sleek look that works from the gym floor to streetwear fits."
+    },
+    {
+        "id": 9,
+        "closeTitle": "UltraStretch Mobility Shorts",
+        "imageName": "ultrastretch_mobility_shorts",
+        "price": 36.00,
+        "description": "Made for movement, these high-stretch shorts support full-range motion without sacrificing style. Ideal for yoga, mobility training, or lounging in comfort."
+    },
+    {
+        "id": 10,
+        "closeTitle": "HybridMove Casual Shorts",
+        "imageName": "hybridmove_casual_shorts",
+        "price": 30.50,
+        "description": "Blending sport and style, these shorts offer an athletic build with casual appeal. Breathable and easy to wear, they transition seamlessly from the gym to everyday life."
+    }
+]

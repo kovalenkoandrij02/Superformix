@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "closeTitle": "FusionFlex Tapered Joggers",
+        "imageName": "fusionflex_tapered_joggers",
+        "price": 45.00,
+        "description": "Sleek and functional, these joggers feature a modern tapered cut and sweat-wicking fabric. With an adjustable waistband and clean lines, they’re ready for training, travel, or downtime."
+    },
+    {
+        "id": 2,
+        "closeTitle": "CloudWeave Athletic Sweatpants",
+        "imageName": "cloudweave_athletic_sweatpants",
+        "price": 50.00,
+        "description": "Engineered for all-day comfort, these sweatpants feature ultra-soft fabric, ribbed cuffs, and deep side pockets. Whether you're on the move or at rest, these pants keep it cozy without compromising style."
+    },
+    {
+        "id": 3,
+        "closeTitle": "AeroFit Slim Joggers",
+        "imageName": "aerofit_slim_joggers",
+        "price": 47.00,
+        "description": "Designed with athletes in mind, these slim joggers combine stretch and structure for ultimate mobility. Great for workouts, walks, or pairing with a hoodie for a sleek casual look."
+    },
+    {
+        "id": 4,
+        "closeTitle": "FlowEase Relaxed Pants",
+        "imageName": "flowease_relaxed_pants",
+        "price": 44.50,
+        "description": "Move freely in these relaxed-fit sport pants, built from soft, breathable fabric. With a laid-back cut and elastic waist, they’re perfect for recovery days or active errands."
+    },
+    {
+        "id": 5,
+        "closeTitle": "IronCore Performance Pants",
+        "imageName": "ironcore_performance_pants",
+        "price": 49.00,
+        "description": "Tough and breathable, these pants are made for intense training. Reinforced seams and durable material ensure they hold up through high-impact workouts while keeping you cool."
+    },
+    {
+        "id": 6,
+        "closeTitle": "WarmCore Fleece Joggers",
+        "imageName": "warmcore_fleece_joggers",
+        "price": 52.00,
+        "description": "Stay toasty in these fleece-lined joggers, ideal for winter mornings or post-gym chillouts. The soft lining, elastic cuffs, and adjustable drawstring offer premium comfort and warmth."
+    },
+    {
+        "id": 7,
+        "closeTitle": "PulseRunner Breathable Pants",
+        "imageName": "pulserunner_breathable_pants",
+        "price": 46.50,
+        "description": "Designed with runners in mind, these pants include mesh ventilation zones and reflective detailing. Lightweight and secure, they help you stay visible and comfortable on the go."
+    },
+    {
+        "id": 8,
+        "closeTitle": "FlexZone Stretch Pants",
+        "imageName": "flexzone_stretch_pants",
+        "price": 48.00,
+        "description": "Maximize comfort and flexibility with these stretchy sweatpants. Great for yoga, mobility training, or just relaxing at home — they move with you every step of the way."
+    },
+    {
+        "id": 9,
+        "closeTitle": "StormTech All-Weather Pants",
+        "imageName": "stormtech_all_weather_pants",
+        "price": 53.50,
+        "description": "Adapt to any condition with these all-weather training pants. Water-repellent and moisture-wicking, they’re perfect for unpredictable days, intense sessions, or outdoor activities."
+    },
+    {
+        "id": 10,
+        "closeTitle": "StreetMode Slim Pants",
+        "imageName": "streetmode_slim_pants",
+        "price": 45.50,
+        "description": "These casual slim-fit pants offer a perfect blend of streetwear and sport. With a clean profile and soft stretch fabric, they’re great for everything from gym to chill."
+    }
+]

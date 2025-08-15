@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "closeTitle": "ActiveCore Pullover Hoodie",
+        "imageName": "activecore_pullover_hoodie",
+        "price": 59.00,
+        "description": "Crafted for comfort and style, this pullover hoodie features soft-touch fleece, a relaxed fit, and an adjustable drawstring hood. Perfect for everyday wear or cooldowns after a workout, it’s designed to keep you warm without overheating."
+    },
+    {
+        "id": 2,
+        "closeTitle": "FlexMotion Zip Hoodie",
+        "imageName": "flexmotion_zip_hoodie",
+        "price": 64.50,
+        "description": "Move freely with this flexible, full-zip hoodie built for active days. Made from stretchy moisture-wicking fabric, it keeps you dry and comfortable while zippered side pockets offer safe storage for essentials. Great for training sessions or travel."
+    },
+    {
+        "id": 3,
+        "closeTitle": "UrbanFit Training Hoodie",
+        "imageName": "urbanfit_training_hoodie",
+        "price": 62.00,
+        "description": "Designed for an athletic look, this hoodie combines lightweight performance fabric with a modern silhouette. Its breathable build and subtle texture make it ideal for workouts, running errands, or layering with streetwear staples."
+    },
+    {
+        "id": 4,
+        "closeTitle": "Endurance Thermal Hoodie",
+        "imageName": "endurance_thermal_hoodie",
+        "price": 71.00,
+        "description": "Made to tackle the cold, this thermal hoodie features insulated fleece lining, a structured hood, and wind-resistant fabric. Whether you're heading out for a run or lounging at home, it offers cozy protection and modern style in one."
+    },
+    {
+        "id": 5,
+        "closeTitle": "EdgeLine Slim Hoodie",
+        "imageName": "edgeline_slim_hoodie",
+        "price": 65.00,
+        "description": "Sleek and minimal, this slim-fit hoodie elevates your casual look. With a front zipper, contoured seams, and low-profile pockets, it pairs effortlessly with joggers or denim. A perfect layer for transitional weather and urban settings."
+    },
+    {
+        "id": 6,
+        "closeTitle": "Studio Comfort Hoodie",
+        "imageName": "studio_comfort_hoodie",
+        "price": 58.00,
+        "description": "This ultra-soft hoodie was made for downtime. Featuring a brushed inner lining, drop-shoulder sleeves, and a loose cut, it’s ideal for relaxing after workouts or staying warm on cozy weekends at home."
+    },
+    {
+        "id": 7,
+        "closeTitle": "AirTech Lightweight Hoodie",
+        "imageName": "airtech_lightweight_hoodie",
+        "price": 60.00,
+        "description": "Engineered for motion, this lightweight hoodie features breathable fabric and a clean finish. Ideal for warm-ups or layering post-gym, it keeps you comfortable without sacrificing flexibility or airflow."
+    },
+    {
+        "id": 8,
+        "closeTitle": "StreetReady Sport Hoodie",
+        "imageName": "streetready_sport_hoodie",
+        "price": 63.50,
+        "description": "Merge fashion and function with this hoodie made for city life. The structured build, large kangaroo pocket, and athletic fit offer a modern twist on classic activewear — whether you’re on the move or off duty."
+    },
+    {
+        "id": 9,
+        "closeTitle": "ProLift Zip Hoodie",
+        "imageName": "prolift_zip_hoodie",
+        "price": 66.00,
+        "description": "Built for performance and recovery, this zip-up hoodie features stretch fabric, a fitted cut, and secure zip pockets. Designed to support active lifestyles, it’s ideal for the gym, outdoor training, or everyday wear."
+    },
+    {
+        "id": 10,
+        "closeTitle": "CoreWarm Training Hoodie",
+        "imageName": "corewarm_training_hoodie",
+        "price": 68.00,
+        "description": "When the temperature drops, this hoodie has you covered. With thermal insulation, a high collar, and a reinforced hood, it offers warmth and weather protection while maintaining breathability and ease of movement."
+    }
+]
