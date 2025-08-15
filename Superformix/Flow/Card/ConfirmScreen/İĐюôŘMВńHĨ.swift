@@ -8,7 +8,6 @@
 import UIKit
 import Lottie
 
-
 class İĐюôŘMВńHĨ: UIViewController {
     
     private var ÌšгȑЗМǵţВô: LottieAnimationView? // anim
