@@ -7,36 +7,88 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		849EC0AF2E4F5AD800BF1884 /* sоbūwÍŠȳlМȴ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC06E2E4F5AD800BF1884 /* sоbūwÍŠȳlМȴ.swift */; };
+		849EC0B02E4F5AD800BF1884 /* ɇşğƒƧįƜЮАŚ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0702E4F5AD800BF1884 /* ɇşğƒƧįƜЮАŚ.swift */; };
+		849EC0B12E4F5AD800BF1884 /* fǾЈƤɌȵЯЯȝǠ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0722E4F5AD800BF1884 /* fǾЈƤɌȵЯЯȝǠ.swift */; };
+		849EC0B22E4F5AD800BF1884 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0752E4F5AD800BF1884 /* DataManager.swift */; };
+		849EC0B32E4F5AD800BF1884 /* ðŊТūǲХȐȟЦŇ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC07D2E4F5AD800BF1884 /* ðŊТūǲХȐȟЦŇ.swift */; };
+		849EC0B42E4F5AD800BF1884 /* İĐюôŘMВńHĨ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC07F2E4F5AD800BF1884 /* İĐюôŘMВńHĨ.swift */; };
+		849EC0B52E4F5AD800BF1884 /* ШĹǤхǮZƑȕȪй.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0812E4F5AD800BF1884 /* ШĹǤхǮZƑȕȪй.swift */; };
+		849EC0B62E4F5AD800BF1884 /* аЧyɊǳąǡЩȸƑ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0832E4F5AD800BF1884 /* аЧyɊǳąǡЩȸƑ.swift */; };
+		849EC0B72E4F5AD800BF1884 /* ФìмǂƶРSєƏȥ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0852E4F5AD800BF1884 /* ФìмǂƶРSєƏȥ.swift */; };
+		849EC0B82E4F5AD800BF1884 /* ĳÐÐЙȕЊÙƵńj.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0872E4F5AD800BF1884 /* ĳÐÐЙȕЊÙƵńj.swift */; };
+		849EC0B92E4F5AD800BF1884 /* дŢǢƜVȵƣΜȑɈ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0892E4F5AD800BF1884 /* дŢǢƜVȵƣΜȑɈ.swift */; };
+		849EC0BA2E4F5AD800BF1884 /* ĥƞАâȹnƅАúǶ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC08B2E4F5AD800BF1884 /* ĥƞАâȹnƅАúǶ.swift */; };
+		849EC0BB2E4F5AD800BF1884 /* ȆŸƣхØƭŐŷШn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC08D2E4F5AD800BF1884 /* ȆŸƣхØƭŐŷШn.swift */; };
+		849EC0BC2E4F5AD800BF1884 /* ÎœĐа́ǡŦґǬŮn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC08F2E4F5AD800BF1884 /* ÎœĐа́ǡŦґǬŮn.swift */; };
+		849EC0BD2E4F5AD800BF1884 /* ĂЖjǲЬóВЖğå.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0912E4F5AD800BF1884 /* ĂЖjǲЬóВЖğå.swift */; };
+		849EC0BE2E4F5AD800BF1884 /* sгЮşƪȎŶìgưŅ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0932E4F5AD800BF1884 /* sгЮşƪȎŶìgưŅ.swift */; };
+		849EC0BF2E4F5AD800BF1884 /* ЦnьЮßēшčǔƀ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0952E4F5AD800BF1884 /* ЦnьЮßēшčǔƀ.swift */; };
+		849EC0C02E4F5AD800BF1884 /* šśGЪǓćúUǢġ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0972E4F5AD800BF1884 /* šśGЪǓćúUǢġ.swift */; };
+		849EC0C12E4F5AD800BF1884 /* ȆЂхȳĝЂнȑȖǭ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0992E4F5AD800BF1884 /* ȆЂхȳĝЂнȑȖǭ.swift */; };
+		849EC0C22E4F5AD800BF1884 /* ŞÞƚÅЫȃǐìǳƲ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC09C2E4F5AD800BF1884 /* ŞÞƚÅЫȃǐìǳƲ.swift */; };
+		849EC0C32E4F5AD800BF1884 /* АţУΜЬĢǩơɍț.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC09E2E4F5AD800BF1884 /* АţУΜЬĢǩơɍț.swift */; };
+		849EC0C42E4F5AD800BF1884 /* гƭŶŋżȌŅБȚƵ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0A02E4F5AD800BF1884 /* гƭŶŋżȌŅБȚƵ.swift */; };
+		849EC0C52E4F5AD800BF1884 /* ŎƃƓИŠƚƒķŽȚ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0A22E4F5AD800BF1884 /* ŎƃƓИŠƚƒķŽȚ.swift */; };
+		849EC0C62E4F5AD800BF1884 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0A52E4F5AD800BF1884 /* AppDelegate.swift */; };
+		849EC0C72E4F5AD800BF1884 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849EC0AD2E4F5AD800BF1884 /* SceneDelegate.swift */; };
+		849EC0C82E4F5AD800BF1884 /* CapData.json in Resources */ = {isa = PBXBuildFile; fileRef = 849EC0742E4F5AD800BF1884 /* CapData.json */; };
+		849EC0C92E4F5AD800BF1884 /* HoodiesData.json in Resources */ = {isa = PBXBuildFile; fileRef = 849EC0762E4F5AD800BF1884 /* HoodiesData.json */; };
+		849EC0CA2E4F5AD800BF1884 /* JacketData.json in Resources */ = {isa = PBXBuildFile; fileRef = 849EC0772E4F5AD800BF1884 /* JacketData.json */; };
+		849EC0CB2E4F5AD800BF1884 /* PantsData.json in Resources */ = {isa = PBXBuildFile; fileRef = 849EC0782E4F5AD800BF1884 /* PantsData.json */; };
+		849EC0CC2E4F5AD800BF1884 /* PopularData.json in Resources */ = {isa = PBXBuildFile; fileRef = 849EC0792E4F5AD800BF1884 /* PopularData.json */; };
+		849EC0CD2E4F5AD800BF1884 /* ShortsData.json in Resources */ = {isa = PBXBuildFile; fileRef = 849EC07A2E4F5AD800BF1884 /* ShortsData.json */; };
+		849EC0CE2E4F5AD800BF1884 /* TShirtData.json in Resources */ = {isa = PBXBuildFile; fileRef = 849EC07B2E4F5AD800BF1884 /* TShirtData.json */; };
+		849EC0CF2E4F5AD800BF1884 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 849EC0A62E4F5AD800BF1884 /* Assets.xcassets */; };
+		849EC0D12E4F5AD800BF1884 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 849EC0A92E4F5AD800BF1884 /* LaunchScreen.storyboard */; };
+		849EC0D22E4F5AD800BF1884 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 849EC0AB2E4F5AD800BF1884 /* Main.storyboard */; };
+		849EC0D32E4F5AD800BF1884 /* orderConfirm.json in Resources */ = {isa = PBXBuildFile; fileRef = 849EC0AC2E4F5AD800BF1884 /* orderConfirm.json */; };
 		8ED1D89D847FBA0B0A3F53E6 /* Pods_Superformix.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0709D61E9A6B78B9C23B7F9 /* Pods_Superformix.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3641F1DAA333709378CF83E1 /* Pods-Superformix.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Superformix.release.xcconfig"; path = "Target Support Files/Pods-Superformix/Pods-Superformix.release.xcconfig"; sourceTree = "<group>"; };
 		849EBC852E42396000BF1884 /* Superformix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Superformix.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		849EC06E2E4F5AD800BF1884 /* sоbūwÍŠȳlМȴ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "sоbūwÍŠȳlМȴ.swift"; sourceTree = "<group>"; };
+		849EC0702E4F5AD800BF1884 /* ɇşğƒƧįƜЮАŚ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ɇşğƒƧįƜЮАŚ.swift"; sourceTree = "<group>"; };
+		849EC0722E4F5AD800BF1884 /* fǾЈƤɌȵЯЯȝǠ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "fǾЈƤɌȵЯЯȝǠ.swift"; sourceTree = "<group>"; };
+		849EC0742E4F5AD800BF1884 /* CapData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = CapData.json; sourceTree = "<group>"; };
+		849EC0752E4F5AD800BF1884 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		849EC0762E4F5AD800BF1884 /* HoodiesData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = HoodiesData.json; sourceTree = "<group>"; };
+		849EC0772E4F5AD800BF1884 /* JacketData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = JacketData.json; sourceTree = "<group>"; };
+		849EC0782E4F5AD800BF1884 /* PantsData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PantsData.json; sourceTree = "<group>"; };
+		849EC0792E4F5AD800BF1884 /* PopularData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = PopularData.json; sourceTree = "<group>"; };
+		849EC07A2E4F5AD800BF1884 /* ShortsData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ShortsData.json; sourceTree = "<group>"; };
+		849EC07B2E4F5AD800BF1884 /* TShirtData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = TShirtData.json; sourceTree = "<group>"; };
+		849EC07D2E4F5AD800BF1884 /* ðŊТūǲХȐȟЦŇ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ðŊТūǲХȐȟЦŇ.swift"; sourceTree = "<group>"; };
+		849EC07F2E4F5AD800BF1884 /* İĐюôŘMВńHĨ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "İĐюôŘMВńHĨ.swift"; sourceTree = "<group>"; };
+		849EC0812E4F5AD800BF1884 /* ШĹǤхǮZƑȕȪй.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ШĹǤхǮZƑȕȪй.swift"; sourceTree = "<group>"; };
+		849EC0832E4F5AD800BF1884 /* аЧyɊǳąǡЩȸƑ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "аЧyɊǳąǡЩȸƑ.swift"; sourceTree = "<group>"; };
+		849EC0852E4F5AD800BF1884 /* ФìмǂƶРSєƏȥ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ФìмǂƶРSєƏȥ.swift"; sourceTree = "<group>"; };
+		849EC0872E4F5AD800BF1884 /* ĳÐÐЙȕЊÙƵńj.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ĳÐÐЙȕЊÙƵńj.swift"; sourceTree = "<group>"; };
+		849EC0892E4F5AD800BF1884 /* дŢǢƜVȵƣΜȑɈ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "дŢǢƜVȵƣΜȑɈ.swift"; sourceTree = "<group>"; };
+		849EC08B2E4F5AD800BF1884 /* ĥƞАâȹnƅАúǶ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ĥƞАâȹnƅАúǶ.swift"; sourceTree = "<group>"; };
+		849EC08D2E4F5AD800BF1884 /* ȆŸƣхØƭŐŷШn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ȆŸƣхØƭŐŷШn.swift"; sourceTree = "<group>"; };
+		849EC08F2E4F5AD800BF1884 /* ÎœĐа́ǡŦґǬŮn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ÎœĐа́ǡŦґǬŮn.swift"; sourceTree = "<group>"; };
+		849EC0912E4F5AD800BF1884 /* ĂЖjǲЬóВЖğå.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ĂЖjǲЬóВЖğå.swift"; sourceTree = "<group>"; };
+		849EC0932E4F5AD800BF1884 /* sгЮşƪȎŶìgưŅ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "sгЮşƪȎŶìgưŅ.swift"; sourceTree = "<group>"; };
+		849EC0952E4F5AD800BF1884 /* ЦnьЮßēшčǔƀ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ЦnьЮßēшčǔƀ.swift"; sourceTree = "<group>"; };
+		849EC0972E4F5AD800BF1884 /* šśGЪǓćúUǢġ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "šśGЪǓćúUǢġ.swift"; sourceTree = "<group>"; };
+		849EC0992E4F5AD800BF1884 /* ȆЂхȳĝЂнȑȖǭ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ȆЂхȳĝЂнȑȖǭ.swift"; sourceTree = "<group>"; };
+		849EC09C2E4F5AD800BF1884 /* ŞÞƚÅЫȃǐìǳƲ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ŞÞƚÅЫȃǐìǳƲ.swift"; sourceTree = "<group>"; };
+		849EC09E2E4F5AD800BF1884 /* АţУΜЬĢǩơɍț.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "АţУΜЬĢǩơɍț.swift"; sourceTree = "<group>"; };
+		849EC0A02E4F5AD800BF1884 /* гƭŶŋżȌŅБȚƵ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "гƭŶŋżȌŅБȚƵ.swift"; sourceTree = "<group>"; };
+		849EC0A22E4F5AD800BF1884 /* ŎƃƓИŠƚƒķŽȚ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ŎƃƓИŠƚƒķŽȚ.swift"; sourceTree = "<group>"; };
+		849EC0A52E4F5AD800BF1884 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		849EC0A62E4F5AD800BF1884 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		849EC0A72E4F5AD800BF1884 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		849EC0A82E4F5AD800BF1884 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		849EC0AA2E4F5AD800BF1884 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		849EC0AC2E4F5AD800BF1884 /* orderConfirm.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = orderConfirm.json; sourceTree = "<group>"; };
+		849EC0AD2E4F5AD800BF1884 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F0709D61E9A6B78B9C23B7F9 /* Pods_Superformix.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Superformix.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB92967E41BF77A82AB8F037 /* Pods-Superformix.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Superformix.debug.xcconfig"; path = "Target Support Files/Pods-Superformix/Pods-Superformix.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		849EBF952E4E2D5100BF1884 /* Exceptions for "Superformix" folder in "Superformix" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 849EBC842E42396000BF1884 /* Superformix */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		849EBF3E2E4D2C1500BF1884 /* Superformix */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				849EBF952E4E2D5100BF1884 /* Exceptions for "Superformix" folder in "Superformix" target */,
-			);
-			path = Superformix;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		849EBC822E42396000BF1884 /* Frameworks */ = {
@@ -56,14 +108,13 @@
 				FB92967E41BF77A82AB8F037 /* Pods-Superformix.debug.xcconfig */,
 				3641F1DAA333709378CF83E1 /* Pods-Superformix.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
 		849EBC7C2E42396000BF1884 = {
 			isa = PBXGroup;
 			children = (
-				849EBF3E2E4D2C1500BF1884 /* Superformix */,
+				849EC0AE2E4F5AD800BF1884 /* Superformix */,
 				849EBC862E42396000BF1884 /* Products */,
 				1AD5478388AC56537B8F5222 /* Pods */,
 				972AAA41FF40946B00108238 /* Frameworks */,
@@ -76,6 +127,250 @@
 				849EBC852E42396000BF1884 /* Superformix.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		849EC06F2E4F5AD800BF1884 /* CardDataManager */ = {
+			isa = PBXGroup;
+			children = (
+				849EC06E2E4F5AD800BF1884 /* sоbūwÍŠȳlМȴ.swift */,
+			);
+			path = CardDataManager;
+			sourceTree = "<group>";
+		};
+		849EC0712E4F5AD800BF1884 /* OrdersDara */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0702E4F5AD800BF1884 /* ɇşğƒƧįƜЮАŚ.swift */,
+			);
+			path = OrdersDara;
+			sourceTree = "<group>";
+		};
+		849EC0732E4F5AD800BF1884 /* UserData */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0722E4F5AD800BF1884 /* fǾЈƤɌȵЯЯȝǠ.swift */,
+			);
+			path = UserData;
+			sourceTree = "<group>";
+		};
+		849EC07C2E4F5AD800BF1884 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				849EC06F2E4F5AD800BF1884 /* CardDataManager */,
+				849EC0712E4F5AD800BF1884 /* OrdersDara */,
+				849EC0732E4F5AD800BF1884 /* UserData */,
+				849EC0742E4F5AD800BF1884 /* CapData.json */,
+				849EC0752E4F5AD800BF1884 /* DataManager.swift */,
+				849EC0762E4F5AD800BF1884 /* HoodiesData.json */,
+				849EC0772E4F5AD800BF1884 /* JacketData.json */,
+				849EC0782E4F5AD800BF1884 /* PantsData.json */,
+				849EC0792E4F5AD800BF1884 /* PopularData.json */,
+				849EC07A2E4F5AD800BF1884 /* ShortsData.json */,
+				849EC07B2E4F5AD800BF1884 /* TShirtData.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		849EC07E2E4F5AD800BF1884 /* CardCell */ = {
+			isa = PBXGroup;
+			children = (
+				849EC07D2E4F5AD800BF1884 /* ðŊТūǲХȐȟЦŇ.swift */,
+			);
+			path = CardCell;
+			sourceTree = "<group>";
+		};
+		849EC0802E4F5AD800BF1884 /* ConfirmScreen */ = {
+			isa = PBXGroup;
+			children = (
+				849EC07F2E4F5AD800BF1884 /* İĐюôŘMВńHĨ.swift */,
+			);
+			path = ConfirmScreen;
+			sourceTree = "<group>";
+		};
+		849EC0822E4F5AD800BF1884 /* OrderSetup */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0812E4F5AD800BF1884 /* ШĹǤхǮZƑȕȪй.swift */,
+			);
+			path = OrderSetup;
+			sourceTree = "<group>";
+		};
+		849EC0842E4F5AD800BF1884 /* ProductForFinalCheckCell */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0832E4F5AD800BF1884 /* аЧyɊǳąǡЩȸƑ.swift */,
+			);
+			path = ProductForFinalCheckCell;
+			sourceTree = "<group>";
+		};
+		849EC0862E4F5AD800BF1884 /* Card */ = {
+			isa = PBXGroup;
+			children = (
+				849EC07E2E4F5AD800BF1884 /* CardCell */,
+				849EC0802E4F5AD800BF1884 /* ConfirmScreen */,
+				849EC0822E4F5AD800BF1884 /* OrderSetup */,
+				849EC0842E4F5AD800BF1884 /* ProductForFinalCheckCell */,
+				849EC0852E4F5AD800BF1884 /* ФìмǂƶРSєƏȥ.swift */,
+			);
+			path = Card;
+			sourceTree = "<group>";
+		};
+		849EC0882E4F5AD800BF1884 /* CategoryCell */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0872E4F5AD800BF1884 /* ĳÐÐЙȕЊÙƵńj.swift */,
+			);
+			path = CategoryCell;
+			sourceTree = "<group>";
+		};
+		849EC08A2E4F5AD800BF1884 /* ClotherList */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0892E4F5AD800BF1884 /* дŢǢƜVȵƣΜȑɈ.swift */,
+			);
+			path = ClotherList;
+			sourceTree = "<group>";
+		};
+		849EC08C2E4F5AD800BF1884 /* ProductDetail */ = {
+			isa = PBXGroup;
+			children = (
+				849EC08B2E4F5AD800BF1884 /* ĥƞАâȹnƅАúǶ.swift */,
+			);
+			path = ProductDetail;
+			sourceTree = "<group>";
+		};
+		849EC08E2E4F5AD800BF1884 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0882E4F5AD800BF1884 /* CategoryCell */,
+				849EC08A2E4F5AD800BF1884 /* ClotherList */,
+				849EC08C2E4F5AD800BF1884 /* ProductDetail */,
+				849EC08D2E4F5AD800BF1884 /* ȆŸƣхØƭŐŷШn.swift */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		849EC0902E4F5AD800BF1884 /* ProductCell */ = {
+			isa = PBXGroup;
+			children = (
+				849EC08F2E4F5AD800BF1884 /* ÎœĐа́ǡŦґǬŮn.swift */,
+			);
+			path = ProductCell;
+			sourceTree = "<group>";
+		};
+		849EC0922E4F5AD800BF1884 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0902E4F5AD800BF1884 /* ProductCell */,
+				849EC0912E4F5AD800BF1884 /* ĂЖjǲЬóВЖğå.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		849EC0942E4F5AD800BF1884 /* OrderCell */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0932E4F5AD800BF1884 /* sгЮşƪȎŶìgưŅ.swift */,
+			);
+			path = OrderCell;
+			sourceTree = "<group>";
+		};
+		849EC0962E4F5AD800BF1884 /* Orders */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0942E4F5AD800BF1884 /* OrderCell */,
+				849EC0952E4F5AD800BF1884 /* ЦnьЮßēшčǔƀ.swift */,
+			);
+			path = Orders;
+			sourceTree = "<group>";
+		};
+		849EC0982E4F5AD800BF1884 /* Setting */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0962E4F5AD800BF1884 /* Orders */,
+				849EC0972E4F5AD800BF1884 /* šśGЪǓćúUǢġ.swift */,
+			);
+			path = Setting;
+			sourceTree = "<group>";
+		};
+		849EC09A2E4F5AD800BF1884 /* TB */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0992E4F5AD800BF1884 /* ȆЂхȳĝЂнȑȖǭ.swift */,
+			);
+			path = TB;
+			sourceTree = "<group>";
+		};
+		849EC09B2E4F5AD800BF1884 /* Flow */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0862E4F5AD800BF1884 /* Card */,
+				849EC08E2E4F5AD800BF1884 /* Category */,
+				849EC0922E4F5AD800BF1884 /* Home */,
+				849EC0982E4F5AD800BF1884 /* Setting */,
+				849EC09A2E4F5AD800BF1884 /* TB */,
+			);
+			path = Flow;
+			sourceTree = "<group>";
+		};
+		849EC09D2E4F5AD800BF1884 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				849EC09C2E4F5AD800BF1884 /* ŞÞƚÅЫȃǐìǳƲ.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		849EC09F2E4F5AD800BF1884 /* Onbording */ = {
+			isa = PBXGroup;
+			children = (
+				849EC09E2E4F5AD800BF1884 /* АţУΜЬĢǩơɍț.swift */,
+			);
+			path = Onbording;
+			sourceTree = "<group>";
+		};
+		849EC0A12E4F5AD800BF1884 /* Reset */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0A02E4F5AD800BF1884 /* гƭŶŋżȌŅБȚƵ.swift */,
+			);
+			path = Reset;
+			sourceTree = "<group>";
+		};
+		849EC0A32E4F5AD800BF1884 /* Welcome */ = {
+			isa = PBXGroup;
+			children = (
+				849EC0A22E4F5AD800BF1884 /* ŎƃƓИŠƚƒķŽȚ.swift */,
+			);
+			path = Welcome;
+			sourceTree = "<group>";
+		};
+		849EC0A42E4F5AD800BF1884 /* StartFlow */ = {
+			isa = PBXGroup;
+			children = (
+				849EC09D2E4F5AD800BF1884 /* Login */,
+				849EC09F2E4F5AD800BF1884 /* Onbording */,
+				849EC0A12E4F5AD800BF1884 /* Reset */,
+				849EC0A32E4F5AD800BF1884 /* Welcome */,
+			);
+			path = StartFlow;
+			sourceTree = "<group>";
+		};
+		849EC0AE2E4F5AD800BF1884 /* Superformix */ = {
+			isa = PBXGroup;
+			children = (
+				849EC07C2E4F5AD800BF1884 /* Data */,
+				849EC09B2E4F5AD800BF1884 /* Flow */,
+				849EC0A42E4F5AD800BF1884 /* StartFlow */,
+				849EC0A52E4F5AD800BF1884 /* AppDelegate.swift */,
+				849EC0A62E4F5AD800BF1884 /* Assets.xcassets */,
+				849EC0A72E4F5AD800BF1884 /* Info.plist */,
+				849EC0A92E4F5AD800BF1884 /* LaunchScreen.storyboard */,
+				849EC0AB2E4F5AD800BF1884 /* Main.storyboard */,
+				849EC0AC2E4F5AD800BF1884 /* orderConfirm.json */,
+				849EC0AD2E4F5AD800BF1884 /* SceneDelegate.swift */,
+			);
+			path = Superformix;
 			sourceTree = "<group>";
 		};
 		972AAA41FF40946B00108238 /* Frameworks */ = {
@@ -102,9 +397,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				849EBF3E2E4D2C1500BF1884 /* Superformix */,
 			);
 			name = Superformix;
 			productName = Superformix;
@@ -150,6 +442,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				849EC0C82E4F5AD800BF1884 /* CapData.json in Resources */,
+				849EC0C92E4F5AD800BF1884 /* HoodiesData.json in Resources */,
+				849EC0CA2E4F5AD800BF1884 /* JacketData.json in Resources */,
+				849EC0CB2E4F5AD800BF1884 /* PantsData.json in Resources */,
+				849EC0CC2E4F5AD800BF1884 /* PopularData.json in Resources */,
+				849EC0CD2E4F5AD800BF1884 /* ShortsData.json in Resources */,
+				849EC0CE2E4F5AD800BF1884 /* TShirtData.json in Resources */,
+				849EC0CF2E4F5AD800BF1884 /* Assets.xcassets in Resources */,
+				849EC0D12E4F5AD800BF1884 /* LaunchScreen.storyboard in Resources */,
+				849EC0D22E4F5AD800BF1884 /* Main.storyboard in Resources */,
+				849EC0D32E4F5AD800BF1884 /* orderConfirm.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,9 +467,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-Superformix/Pods-Superformix-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-Superformix/Pods-Superformix-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -202,10 +509,54 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				849EC0AF2E4F5AD800BF1884 /* sоbūwÍŠȳlМȴ.swift in Sources */,
+				849EC0B02E4F5AD800BF1884 /* ɇşğƒƧįƜЮАŚ.swift in Sources */,
+				849EC0B12E4F5AD800BF1884 /* fǾЈƤɌȵЯЯȝǠ.swift in Sources */,
+				849EC0B22E4F5AD800BF1884 /* DataManager.swift in Sources */,
+				849EC0B32E4F5AD800BF1884 /* ðŊТūǲХȐȟЦŇ.swift in Sources */,
+				849EC0B42E4F5AD800BF1884 /* İĐюôŘMВńHĨ.swift in Sources */,
+				849EC0B52E4F5AD800BF1884 /* ШĹǤхǮZƑȕȪй.swift in Sources */,
+				849EC0B62E4F5AD800BF1884 /* аЧyɊǳąǡЩȸƑ.swift in Sources */,
+				849EC0B72E4F5AD800BF1884 /* ФìмǂƶРSєƏȥ.swift in Sources */,
+				849EC0B82E4F5AD800BF1884 /* ĳÐÐЙȕЊÙƵńj.swift in Sources */,
+				849EC0B92E4F5AD800BF1884 /* дŢǢƜVȵƣΜȑɈ.swift in Sources */,
+				849EC0BA2E4F5AD800BF1884 /* ĥƞАâȹnƅАúǶ.swift in Sources */,
+				849EC0BB2E4F5AD800BF1884 /* ȆŸƣхØƭŐŷШn.swift in Sources */,
+				849EC0BC2E4F5AD800BF1884 /* ÎœĐа́ǡŦґǬŮn.swift in Sources */,
+				849EC0BD2E4F5AD800BF1884 /* ĂЖjǲЬóВЖğå.swift in Sources */,
+				849EC0BE2E4F5AD800BF1884 /* sгЮşƪȎŶìgưŅ.swift in Sources */,
+				849EC0BF2E4F5AD800BF1884 /* ЦnьЮßēшčǔƀ.swift in Sources */,
+				849EC0C02E4F5AD800BF1884 /* šśGЪǓćúUǢġ.swift in Sources */,
+				849EC0C12E4F5AD800BF1884 /* ȆЂхȳĝЂнȑȖǭ.swift in Sources */,
+				849EC0C22E4F5AD800BF1884 /* ŞÞƚÅЫȃǐìǳƲ.swift in Sources */,
+				849EC0C32E4F5AD800BF1884 /* АţУΜЬĢǩơɍț.swift in Sources */,
+				849EC0C42E4F5AD800BF1884 /* гƭŶŋżȌŅБȚƵ.swift in Sources */,
+				849EC0C52E4F5AD800BF1884 /* ŎƃƓИŠƚƒķŽȚ.swift in Sources */,
+				849EC0C62E4F5AD800BF1884 /* AppDelegate.swift in Sources */,
+				849EC0C72E4F5AD800BF1884 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		849EC0A92E4F5AD800BF1884 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				849EC0A82E4F5AD800BF1884 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		849EC0AB2E4F5AD800BF1884 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				849EC0AA2E4F5AD800BF1884 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		849EBC992E42396100BF1884 /* Debug */ = {
