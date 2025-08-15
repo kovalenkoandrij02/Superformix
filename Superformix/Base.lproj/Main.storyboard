@@ -1232,9 +1232,6 @@
                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" image="conf_wei23" translatesAutoresizingMaskIntoConstraints="NO" id="f0C-aw-eVT">
-                                <rect key="frame" x="0.0" y="164.66666666666669" width="393" height="687.33333333333326"/>
-                            </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oi0-7f-VCq">
                                 <rect key="frame" x="16" y="699" width="361" height="60"/>
                                 <constraints>
@@ -1271,20 +1268,16 @@
                         <constraints>
                             <constraint firstItem="oi0-7f-VCq" firstAttribute="leading" secondItem="xAU-1Z-zfy" secondAttribute="leading" constant="16" id="6QJ-Mc-EuS"/>
                             <constraint firstItem="R7U-LH-v4h" firstAttribute="top" secondItem="Gvk-dP-bpI" secondAttribute="bottom" constant="10" id="AnJ-ed-7t3"/>
-                            <constraint firstItem="f0C-aw-eVT" firstAttribute="leading" secondItem="xAU-1Z-zfy" secondAttribute="leading" id="BS6-1i-fMj"/>
                             <constraint firstItem="oi0-7f-VCq" firstAttribute="bottom" secondItem="xAU-1Z-zfy" secondAttribute="bottom" constant="-25" id="Kou-Zd-NSh"/>
                             <constraint firstItem="R7U-LH-v4h" firstAttribute="centerX" secondItem="gc1-7e-RAX" secondAttribute="centerX" id="aKt-ja-eL1"/>
-                            <constraint firstAttribute="bottom" secondItem="f0C-aw-eVT" secondAttribute="bottom" id="bp0-8U-3ly"/>
                             <constraint firstItem="Gvk-dP-bpI" firstAttribute="centerX" secondItem="R7U-LH-v4h" secondAttribute="centerX" id="eDh-1c-ard"/>
                             <constraint firstAttribute="trailing" secondItem="gc1-7e-RAX" secondAttribute="trailing" constant="16" id="gyE-2f-kMR"/>
                             <constraint firstItem="VS4-aL-bBm" firstAttribute="top" secondItem="xAU-1Z-zfy" secondAttribute="top" constant="10" id="hmg-Ci-ywQ"/>
                             <constraint firstItem="oi0-7f-VCq" firstAttribute="top" secondItem="gc1-7e-RAX" secondAttribute="bottom" constant="55" id="ier-aC-b9j"/>
                             <constraint firstItem="VS4-aL-bBm" firstAttribute="centerX" secondItem="xAU-1Z-zfy" secondAttribute="centerX" id="k2H-3O-Gct"/>
                             <constraint firstItem="gc1-7e-RAX" firstAttribute="leading" secondItem="xAU-1Z-zfy" secondAttribute="leading" constant="16" id="kyH-tG-cxs"/>
-                            <constraint firstItem="f0C-aw-eVT" firstAttribute="trailing" secondItem="xAU-1Z-zfy" secondAttribute="trailing" id="lwG-Sd-9fA"/>
                             <constraint firstItem="gc1-7e-RAX" firstAttribute="top" secondItem="R7U-LH-v4h" secondAttribute="bottom" constant="15" id="ogp-qx-PPq"/>
                             <constraint firstItem="xAU-1Z-zfy" firstAttribute="trailing" secondItem="oi0-7f-VCq" secondAttribute="trailing" constant="16" id="rke-FQ-49q"/>
-                            <constraint firstItem="f0C-aw-eVT" firstAttribute="top" secondItem="VS4-aL-bBm" secondAttribute="bottom" constant="15" id="z7x-Ta-86a"/>
                         </constraints>
                     </view>
                     <connections>
@@ -1582,7 +1575,7 @@
         <!--Need Login View Controller-->
         <scene sceneID="bEp-W4-Ovm">
             <objects>
-                <viewController storyboardIdentifier="NeedLoginViewController" id="0zQ-eR-hmC" customClass="NeedLoginViewController" customModule="FitToFit" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="NeedLoginViewController" id="0zQ-eR-hmC" customClass="NeedLoginViewController" customModule="Superformix" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="f27-Jo-ZID">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -1668,7 +1661,6 @@ to view this page.</string>
         <image name="chevron.backward" catalog="system" width="97" height="128"/>
         <image name="chevron.left" catalog="system" width="97" height="128"/>
         <image name="chevron.right" catalog="system" width="97" height="128"/>
-        <image name="conf_wei23" width="1500" height="2700"/>
         <image name="confirmOrderButton" width="1340" height="208"/>
         <image name="continueShopping" width="1172" height="208"/>
         <image name="deliveryButton" width="655" height="504"/>
